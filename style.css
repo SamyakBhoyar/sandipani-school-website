@@ -81,6 +81,19 @@ image {
     margin: 10px;
 }
 
-.row {
-    margin: 0 0;
+.environment_li {
+    margin-top: 13px;
+}
+
+.environment_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.environment_li img {
+    border-radius: 25px;
+}
+
+.environment_li p {
+    margin-top: 10px;
 }
